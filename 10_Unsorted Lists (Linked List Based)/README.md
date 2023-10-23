@@ -7,5 +7,3 @@
 
 <h1><b>Output of the code →  </b></h1>
 <img src="Lab Manual and Output/Output-10_Unsorted Lists (Linked List Based).png" > 
-
-
