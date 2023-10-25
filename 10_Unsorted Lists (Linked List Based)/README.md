@@ -6,4 +6,4 @@
 <img src="Lab Manual and Output/Lab Manual Class 14 CSE225.13 Summer 2023_page-0003.jpg">
 
 <h1><b>Output of the code →  </b></h1>
-<img src="Lab Manual and Output/Output-10_Unsorted Lists (Linked List Based).png" >
+<img src="Lab Manual and Output/Output-10_Unsorted Lists (Linked List Based).png">
