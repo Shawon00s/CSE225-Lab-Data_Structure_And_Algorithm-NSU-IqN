@@ -83,7 +83,7 @@ int main()
     cout << endl;
     cout << "Minimum number: " << findMin(a, 5) << endl;
 
-    // Sixth Task
+    // Fifth Task
     cout << endl;
     cout << "Sum of the following series: " << sumOfSeries(0) << endl;
     cout << "Sum of the following series: " << sumOfSeries(1) << endl;
